@@ -1,6 +1,6 @@
 # docker-compose-project
 ## Node mongodb  connection using docker
-Clone the project and run docker-compose-up
+Clone the project and run docker-compose up
 
 for posting data
 
